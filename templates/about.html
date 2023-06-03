@@ -5,8 +5,9 @@
 {% block main %}
 <h2>ABout content</h2>
 
-<form action="post">
-    {{form.csrf_token}}
+<form action="/about" method="POST">
+    {{form.csrf_token() }}
+    {{ form.title.label }}
     {{ form.title }}
     {{ form.submit }}
 
