@@ -47,6 +47,4 @@ Feel free to explore my repository and review the code and resources I created d
 
 # Certificate
 
-[Coursera 78TTZH2XYSHT.pdf](https://github.com/AMSANJEEV28/Web_App_with_Python_and_Flask/files/11643373/Coursera.78TTZH2XYSHT.pdf)
-
-
+![Coursera 78TTZH2XYSHT_page-0001](https://github.com/AMSANJEEV28/Web_App_with_Python_and_Flask/assets/81654437/16d78b45-8a2b-4aff-85f0-1f046c0484ef)
