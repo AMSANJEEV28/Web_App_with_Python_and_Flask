@@ -43,3 +43,10 @@ Throughout the project, I completed various tasks to build a functional web app.
 Each task contributed to the overall functionality and features of the web application.
 
 Feel free to explore my repository and review the code and resources I created during this course.
+
+
+# Certificate
+
+[Coursera 78TTZH2XYSHT.pdf](https://github.com/AMSANJEEV28/Web_App_with_Python_and_Flask/files/11643373/Coursera.78TTZH2XYSHT.pdf)
+
+
