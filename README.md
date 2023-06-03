@@ -1,5 +1,7 @@
 # Web App with Python and Flask
 
+# Coursera Project Network
+
 Welcome to my repository for the **Web App with Python and Flask** course! This repository contains all the code and resources I created while learning and implementing the concepts covered in the course.
 
 ## Course Overview
