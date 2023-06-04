@@ -2,6 +2,10 @@
 
 # Coursera Project Network
 
+
+![coursera](https://github.com/AMSANJEEV28/Web_App_with_Python_and_Flask/assets/81654437/e157e3df-1073-4691-b62a-380ca32bccf0)
+
+
 Welcome to my repository for the **Web App with Python and Flask** course! This repository contains all the code and resources I created while learning and implementing the concepts covered in the course.
 
 ## Course Overview
